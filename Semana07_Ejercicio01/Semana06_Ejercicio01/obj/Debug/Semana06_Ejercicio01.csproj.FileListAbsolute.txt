@@ -1,0 +1,5 @@
+C:\Users\Oscar\RiderProjects\Semana06_Ejercicio01\Semana06_Ejercicio01\bin\Debug\Semana06_Ejercicio01.exe
+C:\Users\Oscar\RiderProjects\Semana06_Ejercicio01\Semana06_Ejercicio01\bin\Debug\Semana06_Ejercicio01.pdb
+C:\Users\Oscar\RiderProjects\Semana06_Ejercicio01\Semana06_Ejercicio01\obj\Debug\Semana06_Ejercicio01.csprojAssemblyReference.cache
+C:\Users\Oscar\RiderProjects\Semana06_Ejercicio01\Semana06_Ejercicio01\obj\Debug\Semana06_Ejercicio01.exe
+C:\Users\Oscar\RiderProjects\Semana06_Ejercicio01\Semana06_Ejercicio01\obj\Debug\Semana06_Ejercicio01.pdb
