@@ -13,9 +13,9 @@ namespace ClaseGUI05
 
         private void button1_Click(object sender, EventArgs e)
         {
-            string nombre = textBox1.Text;
+            string nombre = comboBox1.Text;
 
-            if (textBox1.Text.Equals(""))
+            if (comboBox1.Text.Equals(""))
             {
                 MessageBox.Show("formato incorrecto");
             }

@@ -8,24 +8,24 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/ClaseGUI05/Vista/EliminarUsuario.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/ClaseGUI05/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/ClaseGUI05/Vista/Pedidos.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/ClaseGUI05/Vista/Pedidos.Designer.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/ClaseGUI05/Vista/UsuarioMantenimiento.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/ClaseGUI05/Vista/UsuarioMantenimiento.Designer.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/ClaseGUI05/Vista/Administrador.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/ClaseGUI05/Vista/Administrador.Designer.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/ClaseGUI05/Vista/frmPrincipal.Designer.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ClaseGUI05/Vista/ModificarUsuario.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/ClaseGUI05/Vista/ModificarUsuario.Designer.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/ClaseGUI05/Vista/frmPrincipal.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/ClaseGUI05/Vista/frmInicioSesion.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/ClaseGUI05/Vista/frmInicioSesion.Designer.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/ClaseGUI05/Modelo/Conexion.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/ClaseGUI05/Modelo/Usuario.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ClaseGUI05/Modelo/UsuarioDAO.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ClaseGUI05/Vista/UsuarioMantenimiento.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ClaseGUI05/Modelo/Usuario.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ClaseGUI05/Vista/Pedidos.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ClaseGUI05/Modelo/Conexion.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ClaseGUI05/Vista/EliminarUsuario.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ClaseGUI05/Vista/ModificarUsuario.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ClaseGUI05/Vista/Pedidos.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ClaseGUI05/Vista/EliminarUsuario.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ClaseGUI05/Vista/Administrador.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ClaseGUI05/Vista/frmPrincipal.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ClaseGUI05/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ClaseGUI05/Vista/frmInicioSesion.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ClaseGUI05/Vista/UsuarioMantenimiento.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ClaseGUI05/Vista/frmPrincipal.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ClaseGUI05/Vista/Administrador.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ClaseGUI05/Vista/frmInicioSesion.Designer.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -51,8 +51,8 @@
         <option value="$PROJECT_DIR$/ClaseGUI05/Vista/Administrador.cs" />
         <option value="$PROJECT_DIR$/ClaseGUI05/Vista/frmPrincipal.cs" />
         <option value="$PROJECT_DIR$/ClaseGUI05/Vista/frmInicioSesion.cs" />
-        <option value="$PROJECT_DIR$/ClaseGUI05/Vista/EliminarUsuario.cs" />
         <option value="$PROJECT_DIR$/ClaseGUI05/Vista/UsuarioMantenimiento.cs" />
+        <option value="$PROJECT_DIR$/ClaseGUI05/Vista/EliminarUsuario.cs" />
       </list>
     </option>
   </component>
@@ -108,6 +108,7 @@
       <workItem from="1590043191791" duration="59000" />
       <workItem from="1590043339290" duration="1608000" />
       <workItem from="1590044951796" duration="3054000" />
+      <workItem from="1590101255267" duration="344000" />
     </task>
     <servers />
   </component>
@@ -117,26 +118,26 @@
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="WindowStateProjectService">
-    <state width="1877" height="198" key="GridCell.Tab.0.bottom" timestamp="1590048007780">
+    <state width="1877" height="189" key="GridCell.Tab.0.bottom" timestamp="1590101598723">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1237" height="189" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1589766360664" />
-    <state width="1877" height="198" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1590048007780" />
-    <state width="1877" height="198" key="GridCell.Tab.0.center" timestamp="1590048007780">
+    <state width="1877" height="189" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1590101598723" />
+    <state width="1877" height="189" key="GridCell.Tab.0.center" timestamp="1590101598723">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1237" height="189" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1589766360664" />
-    <state width="1877" height="198" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1590048007780" />
-    <state width="1877" height="198" key="GridCell.Tab.0.left" timestamp="1590048007780">
+    <state width="1877" height="189" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1590101598723" />
+    <state width="1877" height="189" key="GridCell.Tab.0.left" timestamp="1590101598723">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1237" height="189" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1589766360664" />
-    <state width="1877" height="198" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1590048007780" />
-    <state width="1877" height="198" key="GridCell.Tab.0.right" timestamp="1590048007780">
+    <state width="1877" height="189" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1590101598723" />
+    <state width="1877" height="189" key="GridCell.Tab.0.right" timestamp="1590101598723">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1237" height="189" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1589766360664" />
-    <state width="1877" height="198" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1590048007780" />
+    <state width="1877" height="189" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1590101598723" />
     <state width="1877" height="198" key="GridCell.Tab.1.bottom" timestamp="1590048007781">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
