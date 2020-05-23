@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClaseGUI05", "ClaseGUI05\ClaseGUI05.csproj", "{5E4A0F1E-0C76-4EB6-84D2-0CBF5B18A301}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PreParcial", "PreParcial\PreParcial.csproj", "{5E4A0F1E-0C76-4EB6-84D2-0CBF5B18A301}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

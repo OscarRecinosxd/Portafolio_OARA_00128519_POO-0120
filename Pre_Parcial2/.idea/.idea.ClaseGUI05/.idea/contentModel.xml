@@ -2,19 +2,23 @@
 <project version="4">
   <component name="ContentModelStore">
     <e p="C:\Users\Oscar\.Rider2019.3\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\Oscar\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_ClaseGUI05.-1398789173.00" t="ExcludeRecursive" />
-    <e p="C:\Users\Oscar\Desktop\Pre_Parcial2" t="IncludeFlat">
-      <e p="ClaseGUI05" t="IncludeRecursive">
+    <e p="C:\Users\Oscar\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_ClaseGUI05.665579485.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Oscar\RiderProjects\Pre_Parcial" t="IncludeFlat">
+      <e p="ClaseGUI05.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="PreParcial" t="IncludeRecursive">
         <e p="App.config" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
-        <e p="ClaseGUI05.csproj" t="IncludeRecursive" />
         <e p="Modelo" t="Include">
           <e p="Conexion.cs" t="Include" />
+          <e p="Inventario.cs" t="Include" />
+          <e p="InventarioDAO.cs" t="Include" />
           <e p="Usuario.cs" t="Include" />
           <e p="UsuarioDAO.cs" t="Include" />
         </e>
         <e p="obj" t="ExcludeRecursive" />
         <e p="packages.config" t="Include" />
+        <e p="PreParcial.csproj" t="IncludeRecursive" />
         <e p="Program.cs" t="Include" />
         <e p="Properties" t="Include">
           <e p="AssemblyInfo.cs" t="Include" />
@@ -24,34 +28,36 @@
           <e p="Settings.settings" t="Include" />
         </e>
         <e p="Resources" t="Include">
-          <e p="uca_logo.jpg" t="Include" />
+          <e p="Logo.png" t="Include" />
+          <e p="Logo__2_.png" t="Include" />
         </e>
         <e p="Vista" t="Include">
-          <e p="Administrador.cs" t="Include" />
-          <e p="Administrador.Designer.cs" t="Include" />
-          <e p="Administrador.resx" t="Include" />
-          <e p="EliminarUsuario.cs" t="Include" />
-          <e p="EliminarUsuario.Designer.cs" t="Include" />
-          <e p="EliminarUsuario.resx" t="Include" />
           <e p="frmInicioSesion.cs" t="Include" />
           <e p="frmInicioSesion.Designer.cs" t="Include" />
           <e p="frmInicioSesion.resx" t="Include" />
           <e p="frmPrincipal.cs" t="Include" />
           <e p="frmPrincipal.Designer.cs" t="Include" />
           <e p="frmPrincipal.resx" t="Include" />
-          <e p="ModificarUsuario.cs" t="Include" />
-          <e p="ModificarUsuario.Designer.cs" t="Include" />
-          <e p="ModificarUsuario.resx" t="Include" />
-          <e p="Pedidos.cs" t="Include" />
-          <e p="Pedidos.Designer.cs" t="Include" />
-          <e p="Pedidos.resx" t="Include" />
-          <e p="UsuarioMantenimiento.cs" t="Include" />
-          <e p="UsuarioMantenimiento.Designer.cs" t="Include" />
-          <e p="UsuarioMantenimiento.resx" t="Include" />
+          <e p="MantenimientoStock.cs" t="Include" />
+          <e p="MantenimientoStock.Designer.cs" t="Include" />
+          <e p="MantenimientoStock.resx" t="Include" />
+          <e p="MantenimientoUsuarios.cs" t="Include" />
+          <e p="MantenimientoUsuarios.Designer.cs" t="Include" />
+          <e p="MantenimientoUsuarios.resx" t="Include" />
+          <e p="PedidosTodos.cs" t="Include" />
+          <e p="PedidosTodos.Designer.cs" t="Include" />
+          <e p="PedidosTodos.resx" t="Include" />
+          <e p="Realizarpedidos.cs" t="Include" />
+          <e p="Realizarpedidos.Designer.cs" t="Include" />
+          <e p="Realizarpedidos.resx" t="Include" />
+          <e p="UsuarioOpciones.cs" t="Include" />
+          <e p="UsuarioOpciones.Designer.cs" t="Include" />
+          <e p="UsuarioOpciones.resx" t="Include" />
+          <e p="VerPedidosUsuario.cs" t="Include" />
+          <e p="VerPedidosUsuario.Designer.cs" t="Include" />
+          <e p="VerPedidosUsuario.resx" t="Include" />
         </e>
       </e>
-      <e p="ClaseGUI05.sln" t="IncludeFlat" />
-      <e p="packages" t="ExcludeRecursive" />
     </e>
   </component>
 </project>
