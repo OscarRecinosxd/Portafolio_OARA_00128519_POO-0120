@@ -61,11 +61,18 @@ namespace ClaseGUI05
 
         private void btnEliminarUsuario_Click(object sender, EventArgs e)
         {
-            string usuario = cmbUsuarioEliminar.Text;
-            Conexion.realizarAccion($"DELETE FROM USUARIO WHERE id_usuario = '{usuario}'");
-            limpiarCajas();
-            MessageBox.Show("Hecho!");
-            poblarCrearUsuario();
+            try
+            {
+                string usuarioEliminar = cmbUsuarioEliminar.Text;
+                Conexion.realizarAccion($"DELETE FROM USUARIO WHERE id_usuario = '{usuarioEliminar}'");
+                limpiarCajas();
+                MessageBox.Show("Hecho!");
+                poblarCrearUsuario();
+            }
+            catch (Exception exception)
+            {
+                MessageBox.Show("No se puede borrar porque se esta usando como FK!");
+            }
             
         }
 

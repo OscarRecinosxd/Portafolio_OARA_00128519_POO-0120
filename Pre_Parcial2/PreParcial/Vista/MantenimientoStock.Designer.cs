@@ -231,10 +231,10 @@ namespace ClaseGUI05
             // tabPage2
             // 
             this.tabPage2.Controls.Add(this.tableLayoutPanel2);
-            this.tabPage2.Location = new System.Drawing.Point(4, 24);
+            this.tabPage2.Location = new System.Drawing.Point(4, 22);
             this.tabPage2.Name = "tabPage2";
             this.tabPage2.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage2.Size = new System.Drawing.Size(919, 485);
+            this.tabPage2.Size = new System.Drawing.Size(919, 487);
             this.tabPage2.TabIndex = 1;
             this.tabPage2.Text = "Modificar inventario";
             this.tabPage2.UseVisualStyleBackColor = true;
@@ -272,7 +272,7 @@ namespace ClaseGUI05
                 new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 20F));
             this.tableLayoutPanel2.RowStyles.Add(
                 new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 20F));
-            this.tableLayoutPanel2.Size = new System.Drawing.Size(913, 479);
+            this.tableLayoutPanel2.Size = new System.Drawing.Size(913, 481);
             this.tableLayoutPanel2.TabIndex = 2;
             // 
             // lblNombreEditar
@@ -291,7 +291,7 @@ namespace ClaseGUI05
             this.lblDescripcionEditar.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.lblDescripcionEditar.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold,
                 System.Drawing.GraphicsUnit.Point, ((byte) (0)));
-            this.lblDescripcionEditar.Location = new System.Drawing.Point(169, 131);
+            this.lblDescripcionEditar.Location = new System.Drawing.Point(169, 132);
             this.lblDescripcionEditar.Name = "lblDescripcionEditar";
             this.lblDescripcionEditar.Size = new System.Drawing.Size(117, 23);
             this.lblDescripcionEditar.TabIndex = 1;
@@ -302,7 +302,7 @@ namespace ClaseGUI05
             this.lblCantidadEditar.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.lblCantidadEditar.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold,
                 System.Drawing.GraphicsUnit.Point, ((byte) (0)));
-            this.lblCantidadEditar.Location = new System.Drawing.Point(178, 321);
+            this.lblCantidadEditar.Location = new System.Drawing.Point(178, 324);
             this.lblCantidadEditar.Name = "lblCantidadEditar";
             this.lblCantidadEditar.Size = new System.Drawing.Size(100, 23);
             this.lblCantidadEditar.TabIndex = 3;
@@ -313,7 +313,7 @@ namespace ClaseGUI05
             this.lblPrecioEditar.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.lblPrecioEditar.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold,
                 System.Drawing.GraphicsUnit.Point, ((byte) (0)));
-            this.lblPrecioEditar.Location = new System.Drawing.Point(178, 226);
+            this.lblPrecioEditar.Location = new System.Drawing.Point(178, 228);
             this.lblPrecioEditar.Name = "lblPrecioEditar";
             this.lblPrecioEditar.Size = new System.Drawing.Size(100, 23);
             this.lblPrecioEditar.TabIndex = 2;
@@ -323,7 +323,7 @@ namespace ClaseGUI05
             // 
             this.numericPrecioEditar.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.numericPrecioEditar.DecimalPlaces = 2;
-            this.numericPrecioEditar.Location = new System.Drawing.Point(624, 226);
+            this.numericPrecioEditar.Location = new System.Drawing.Point(624, 228);
             this.numericPrecioEditar.Maximum = new decimal(new int[] {100000, 0, 0, 0});
             this.numericPrecioEditar.Name = "numericPrecioEditar";
             this.numericPrecioEditar.Size = new System.Drawing.Size(120, 23);
@@ -332,7 +332,7 @@ namespace ClaseGUI05
             // numericCantidadEditar
             // 
             this.numericCantidadEditar.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.numericCantidadEditar.Location = new System.Drawing.Point(624, 321);
+            this.numericCantidadEditar.Location = new System.Drawing.Point(624, 324);
             this.numericCantidadEditar.Maximum = new decimal(new int[] {100000, 0, 0, 0});
             this.numericCantidadEditar.Name = "numericCantidadEditar";
             this.numericCantidadEditar.Size = new System.Drawing.Size(120, 23);
@@ -344,7 +344,7 @@ namespace ClaseGUI05
             this.btnEditar.BackColor = System.Drawing.Color.Coral;
             this.tableLayoutPanel2.SetColumnSpan(this.btnEditar, 2);
             this.btnEditar.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.btnEditar.Location = new System.Drawing.Point(409, 410);
+            this.btnEditar.Location = new System.Drawing.Point(409, 413);
             this.btnEditar.Name = "btnEditar";
             this.btnEditar.Size = new System.Drawing.Size(94, 38);
             this.btnEditar.TabIndex = 8;
@@ -359,9 +359,9 @@ namespace ClaseGUI05
                                                          System.Windows.Forms.AnchorStyles.Bottom) |
                                                         System.Windows.Forms.AnchorStyles.Left) |
                                                        System.Windows.Forms.AnchorStyles.Right)));
-            this.richTextEditar.Location = new System.Drawing.Point(459, 98);
+            this.richTextEditar.Location = new System.Drawing.Point(459, 99);
             this.richTextEditar.Name = "richTextEditar";
-            this.richTextEditar.Size = new System.Drawing.Size(451, 89);
+            this.richTextEditar.Size = new System.Drawing.Size(451, 90);
             this.richTextEditar.TabIndex = 10;
             this.richTextEditar.Text = "";
             // 
@@ -377,9 +377,9 @@ namespace ClaseGUI05
             // tabPage3
             // 
             this.tabPage3.Controls.Add(this.tableLayoutPanel3);
-            this.tabPage3.Location = new System.Drawing.Point(4, 22);
+            this.tabPage3.Location = new System.Drawing.Point(4, 24);
             this.tabPage3.Name = "tabPage3";
-            this.tabPage3.Size = new System.Drawing.Size(919, 487);
+            this.tabPage3.Size = new System.Drawing.Size(919, 485);
             this.tabPage3.TabIndex = 2;
             this.tabPage3.Text = "Eliminar inventario";
             this.tabPage3.UseVisualStyleBackColor = true;
@@ -405,7 +405,7 @@ namespace ClaseGUI05
                 new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 20F));
             this.tableLayoutPanel3.RowStyles.Add(
                 new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 20F));
-            this.tableLayoutPanel3.Size = new System.Drawing.Size(919, 487);
+            this.tableLayoutPanel3.Size = new System.Drawing.Size(919, 485);
             this.tableLayoutPanel3.TabIndex = 3;
             // 
             // btnEliminar
@@ -414,7 +414,7 @@ namespace ClaseGUI05
             this.btnEliminar.BackColor = System.Drawing.Color.Coral;
             this.tableLayoutPanel3.SetColumnSpan(this.btnEliminar, 2);
             this.btnEliminar.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.btnEliminar.Location = new System.Drawing.Point(412, 346);
+            this.btnEliminar.Location = new System.Drawing.Point(412, 344);
             this.btnEliminar.Name = "btnEliminar";
             this.btnEliminar.Size = new System.Drawing.Size(94, 38);
             this.btnEliminar.TabIndex = 8;
@@ -427,7 +427,7 @@ namespace ClaseGUI05
             this.lblNombreEliminar.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.lblNombreEliminar.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold,
                 System.Drawing.GraphicsUnit.Point, ((byte) (0)));
-            this.lblNombreEliminar.Location = new System.Drawing.Point(179, 110);
+            this.lblNombreEliminar.Location = new System.Drawing.Point(179, 109);
             this.lblNombreEliminar.Name = "lblNombreEliminar";
             this.lblNombreEliminar.Size = new System.Drawing.Size(100, 23);
             this.lblNombreEliminar.TabIndex = 0;
@@ -437,7 +437,7 @@ namespace ClaseGUI05
             // 
             this.comboUsuarioEliminar.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.comboUsuarioEliminar.FormattingEnabled = true;
-            this.comboUsuarioEliminar.Location = new System.Drawing.Point(628, 110);
+            this.comboUsuarioEliminar.Location = new System.Drawing.Point(628, 109);
             this.comboUsuarioEliminar.Name = "comboUsuarioEliminar";
             this.comboUsuarioEliminar.Size = new System.Drawing.Size(121, 23);
             this.comboUsuarioEliminar.TabIndex = 9;

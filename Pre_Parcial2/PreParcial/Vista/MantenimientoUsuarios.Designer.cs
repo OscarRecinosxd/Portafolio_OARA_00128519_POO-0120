@@ -201,10 +201,10 @@ namespace ClaseGUI05
             // tabPage2
             // 
             this.tabPage2.Controls.Add(this.tableLayoutPanel4);
-            this.tabPage2.Location = new System.Drawing.Point(4, 24);
+            this.tabPage2.Location = new System.Drawing.Point(4, 22);
             this.tabPage2.Name = "tabPage2";
             this.tabPage2.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage2.Size = new System.Drawing.Size(919, 485);
+            this.tabPage2.Size = new System.Drawing.Size(918, 486);
             this.tabPage2.TabIndex = 1;
             this.tabPage2.Text = "Editar usuario";
             this.tabPage2.UseVisualStyleBackColor = true;
@@ -233,7 +233,7 @@ namespace ClaseGUI05
                 new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 33.33333F));
             this.tableLayoutPanel4.RowStyles.Add(
                 new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 33.33333F));
-            this.tableLayoutPanel4.Size = new System.Drawing.Size(913, 479);
+            this.tableLayoutPanel4.Size = new System.Drawing.Size(912, 480);
             this.tableLayoutPanel4.TabIndex = 1;
             // 
             // btnEditarUsuario
@@ -241,7 +241,7 @@ namespace ClaseGUI05
             this.btnEditarUsuario.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.btnEditarUsuario.BackColor = System.Drawing.Color.Coral;
             this.btnEditarUsuario.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.btnEditarUsuario.Location = new System.Drawing.Point(174, 374);
+            this.btnEditarUsuario.Location = new System.Drawing.Point(174, 376);
             this.btnEditarUsuario.Name = "btnEditarUsuario";
             this.btnEditarUsuario.Size = new System.Drawing.Size(108, 48);
             this.btnEditarUsuario.TabIndex = 8;
@@ -254,7 +254,7 @@ namespace ClaseGUI05
             this.label2.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.label2.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold,
                 System.Drawing.GraphicsUnit.Point, ((byte) (0)));
-            this.label2.Location = new System.Drawing.Point(139, 227);
+            this.label2.Location = new System.Drawing.Point(139, 228);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(178, 23);
             this.label2.TabIndex = 5;
@@ -275,7 +275,7 @@ namespace ClaseGUI05
             // txtPassEditar
             // 
             this.txtPassEditar.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.txtPassEditar.Location = new System.Drawing.Point(610, 227);
+            this.txtPassEditar.Location = new System.Drawing.Point(609, 228);
             this.txtPassEditar.Name = "txtPassEditar";
             this.txtPassEditar.PasswordChar = '*';
             this.txtPassEditar.Size = new System.Drawing.Size(149, 23);
@@ -286,7 +286,7 @@ namespace ClaseGUI05
             this.checkAdmiEditar.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.checkAdmiEditar.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold,
                 System.Drawing.GraphicsUnit.Point, ((byte) (0)));
-            this.checkAdmiEditar.Location = new System.Drawing.Point(599, 386);
+            this.checkAdmiEditar.Location = new System.Drawing.Point(598, 388);
             this.checkAdmiEditar.Name = "checkAdmiEditar";
             this.checkAdmiEditar.Size = new System.Drawing.Size(171, 24);
             this.checkAdmiEditar.TabIndex = 7;
