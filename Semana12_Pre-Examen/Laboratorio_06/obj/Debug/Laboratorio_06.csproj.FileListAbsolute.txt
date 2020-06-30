@@ -1,0 +1,11 @@
+C:\Users\Oscar\RiderProjects\Laboratorio_06\Laboratorio_06\bin\Debug\Laboratorio_06.exe
+C:\Users\Oscar\RiderProjects\Laboratorio_06\Laboratorio_06\bin\Debug\Laboratorio_06.pdb
+C:\Users\Oscar\RiderProjects\Laboratorio_06\Laboratorio_06\obj\Debug\Laboratorio_06.csprojAssemblyReference.cache
+C:\Users\Oscar\RiderProjects\Laboratorio_06\Laboratorio_06\obj\Debug\Laboratorio_06.exe
+C:\Users\Oscar\RiderProjects\Laboratorio_06\Laboratorio_06\obj\Debug\Laboratorio_06.pdb
+C:\Users\Recinos\Desktop\Github\Portafolio_OARA_00128519_POO-0120\Laboratorio_06\Laboratorio_06\obj\Debug\Laboratorio_06.csprojAssemblyReference.cache
+C:\Users\Recinos\Desktop\Github\Portafolio_OARA_00128519_POO-0120\Laboratorio_06\Laboratorio_06\obj\Debug\Laboratorio_06.csproj.CoreCompileInputs.cache
+C:\Users\Recinos\Desktop\Github\Portafolio_OARA_00128519_POO-0120\Laboratorio_06\Laboratorio_06\obj\Debug\Laboratorio_06.exe
+C:\Users\Recinos\Desktop\Github\Portafolio_OARA_00128519_POO-0120\Laboratorio_06\Laboratorio_06\obj\Debug\Laboratorio_06.pdb
+C:\Users\Recinos\Desktop\Github\Portafolio_OARA_00128519_POO-0120\Laboratorio_06\Laboratorio_06\bin\Debug\Laboratorio_06.exe
+C:\Users\Recinos\Desktop\Github\Portafolio_OARA_00128519_POO-0120\Laboratorio_06\Laboratorio_06\bin\Debug\Laboratorio_06.pdb

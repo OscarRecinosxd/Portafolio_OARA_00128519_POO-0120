@@ -1,0 +1,7 @@
+Se utilizó el patron de diseño "Proxy".
+
+Su ventaja es que da mayor seguridad.
+
+Se elegió para que funcione como intermediario entre el usuario 
+y la clase de calcularNotas.
+
